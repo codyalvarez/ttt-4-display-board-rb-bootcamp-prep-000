@@ -1,4 +1,8 @@
 def display_board(board)
-  prints
+  print "   |   |   "
+  print "-----------"
+  print "   |   |   "
+  print "-----------"
+  print "   |   |   "
 end
-# out the current state.
+
