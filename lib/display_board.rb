@@ -1,2 +1,4 @@
-# Define display_board that accepts a board and prints
+def display_board(board)
+  prints
+end
 # out the current state.
